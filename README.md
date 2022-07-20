@@ -1,1 +1,1 @@
-# jiyun-kong-outta_AI_bootcamp
+# outta_AI_bootcamp
